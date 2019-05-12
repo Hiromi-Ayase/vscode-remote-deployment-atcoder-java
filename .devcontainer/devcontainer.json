@@ -1,0 +1,8 @@
+{
+	"name": "Java AtCoder Container",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"vscjava.vscode-java-pack",
+		"redhat.vscode-xml"
+	]
+}
